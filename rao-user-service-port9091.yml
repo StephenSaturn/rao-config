@@ -1,6 +1,6 @@
 # rao-user-instance1
 server:
-  port: port9091
+  port: 9091
 # 熔断测试用
 thread:
   sleep: 60
