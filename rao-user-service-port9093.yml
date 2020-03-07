@@ -1,0 +1,6 @@
+# rao-user-instance3
+server:
+  port: port9093
+# 熔断测试用
+thread:
+  sleep: 10000
